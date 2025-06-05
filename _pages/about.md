@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: sobre
 permalink: /
-subtitle: Cietista da Computação | Cientista de Dados | Desenvolvedor de Software
+subtitle: Cientista da Computação | Cientista de Dados | Desenvolvedor de Software
 
 profile:
   align: right
