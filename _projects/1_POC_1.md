@@ -6,7 +6,7 @@ description: with background image
 importance: 1
 category: "Explainable AI e Engenharia de Features"
 related_publications: true
-redirect: assets/projectt_files/POC_1.pdf
+redirect: /assets/project_files/POC_1.pdf
 ---
 
 Every project has a beautiful feature showcase page.
