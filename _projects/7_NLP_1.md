@@ -1,11 +1,12 @@
 ---
 layout: page
-title: NLP 1
+title: NLP 1 (WIP)
 description: with background image
 #img: assets/img/4.jpg
 importance: 1
 category: "Transformer LLMs e Processamento de Linguagem Natural"
 related_publications: true
+redirect: https://andredutradcc.github.io/assets/project_files/requires_review/NLP_1.ipynb
 ---
 
 Every project has a beautiful feature showcase page.

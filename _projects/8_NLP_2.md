@@ -1,11 +1,12 @@
 ---
 layout: page
-title: NLP 2
+title: NLP 2 (WIP)
 description: an other project with a background image and giscus comments
 #img: assets/img/9.jpg
 importance: 2
 category: "Transformer LLMs e Processamento de Linguagem Natural"
 giscus_comments: true
+redirect: https://andredutradcc.github.io/assets/project_files/requires_review/NLP_2.ipynb
 ---
 
 Every project has a beautiful feature showcase page.

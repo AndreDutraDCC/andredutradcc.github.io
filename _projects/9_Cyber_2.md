@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Cyber 2
+title: Cyber 2 (Vídeo)
 description: another project with an image 🎉
 #img: assets/img/6.jpg
 importance: 3
 category: "Transformer LLMs e Processamento de Linguagem Natural"
+redirect: https://www.youtube.com/watch?v=u7ga25xim2c
 ---
 
 Every project has a beautiful feature showcase page.

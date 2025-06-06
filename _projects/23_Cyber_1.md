@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Cyber 1
+title: Cyber 1 (WIP)
 description: another project with an image 🎉
 #img: assets/img/6.jpg
 importance: 2
 category: "Machine Learning Clássico"
+redirect: https://andredutradcc.github.io/assets/project_files/requires_review/Cyber_1.ipynb
 ---
 
 Every project has a beautiful feature showcase page.

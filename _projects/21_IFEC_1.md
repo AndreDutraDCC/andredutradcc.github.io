@@ -5,6 +5,7 @@ description: another project with an image 🎉
 #img: assets/img/6.jpg
 importance: 5
 category: "Otimização em Espaço de Estados"
+redirect: https://andredutradcc.github.io/assets/project_files/IFEC_1.pdf
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,38 +1,38 @@
-AD_1    - itemset mining for soccer
-MDA_1   - airbnb data analysis
-VD_1    - bad words visualization
+AD_1    - itemset mining for soccer	pdf
+MDA_1   - airbnb data analysis		pdf
+VD_1    - bad words visualization	-yout
 
-CN_1    - evo algorithm for function 
-CN_2    - ant colony for clique
-HM_1    - simulated annealing variation
-IFEC_1  - simmulated annealing for TSP
-IIA_1   - 8-puzzle optimization
+CN_1    - evo algorithm for function 	pdf
+CN_2    - ant colony for clique		pdf
+HM_1    - simulated annealing variation	pdf
+IFEC_1  - simmulated annealing for TSP	pdf**
+IIA_1   - 8-puzzle optimization		pdf
 
-IT_1    - feature importance analysis
+IT_1    - feature importance analysis	pdf
 
-POC_1   - aCSM feature relevance assessment
-POC_2   - aCSM explainable framework
-BI_1    - CSM distance analysis
+POC_1   - aCSM feature imp assessment 	pdf
+POC_2   - aCSM explainable framework	pdf
+BI_1    - CSM distance analysis		-
 
-ICV_1   - face image compression
-ICV_?  - HOG (TODO obter HOG)
-ICV_3   - captcha convolutional networks
-ML_1    - digit image classifier
+ICV_1   - face image compression	pdf**
+ICV_?   - HOG (TODO obter HOG)		-
+ICV_3   - captcha conv networks 	html
+ML_1    - digit image classifier	pdf
 
-ML_2    - boosting from scratch
-ML_3    - taxi regression
-Cyber_1 - spam detection classifier
-IIA_2   - iris supervised and unsupervised models
+ML_2    - boosting from scratch		pdf
+ML_3    - taxi regression		-yout
+Cyber_1 - spam detection classifier	-ipynb
+IIA_2   - iris sup and unsup models 	-ipynb
 
-RIM_1   - midi melody extraction
+RIM_1   - midi melody extraction	pdf
 
-NLP_1   - pos tagging classifier
-NLP_2   - bad clauses classifier
+NLP_1   - pos tagging classifier	-ipynb
+NLP_2   - bad clauses classifier	-ipynb
 
-Cyber_2 - table anomalies detector
+Cyber_2 - table anomalies detector	-yout/pdf**
 
-EC_1    - Ethics in AI art
-CS_1    - dark patterns
+EC_1    - Ethics in AI art		pdf
+CS_1    - dark patterns			-
 
 Explainable AI e Engenharia de Features
     POC_1

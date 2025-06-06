@@ -6,6 +6,7 @@ description: a project with a background image and giscus comments
 importance: 2
 category: "Explainable AI e Engenharia de Features"
 giscus_comments: true
+redirect: https://andredutradcc.github.io/assets/project_files/POC_2.pdf
 ---
 
 Every project has a beautiful feature showcase page.

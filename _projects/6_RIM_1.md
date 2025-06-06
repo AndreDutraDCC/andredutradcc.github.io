@@ -5,6 +5,7 @@ description: a project with no image
 #img:
 importance: 1
 category: "Transformer LLMs e Processamento de Linguagem Natural"
+redirect: https://andredutradcc.github.io/assets/project_files/RIM_1.pdf
 ---
 
 Every project has a beautiful feature showcase page.
