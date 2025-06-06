@@ -452,8 +452,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/19_HM_1/";
-            },},{id: "projects-project-1",
-          title: 'project 1',
+            },},{id: "projects-poc-1",
+          title: 'POC 1',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_POC_1/";
@@ -492,43 +492,43 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/26_CS_1/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
+            },},{id: "projects-poc-2",
+          title: 'POC 2',
           description: "a project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_POC_2/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
+            },},{id: "projects-it-1",
+          title: 'IT 1',
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_IT_1/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
+            },},{id: "projects-bio-1",
+          title: 'Bio 1',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_Bio_1/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
+            },},{id: "projects-ml-3",
+          title: 'ML 3',
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_ML_3/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
+            },},{id: "projects-rim-1",
+          title: 'RIM 1',
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_RIM_1/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
+            },},{id: "projects-nlp-1",
+          title: 'NLP 1',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_NLP_1/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
+            },},{id: "projects-nlp-2",
+          title: 'NLP 2',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_NLP_2/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-cyber-2",
+          title: 'Cyber 2',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_Cyber_2/";
