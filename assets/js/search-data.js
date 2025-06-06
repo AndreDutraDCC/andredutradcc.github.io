@@ -402,13 +402,13 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-icv-1",
-          title: 'ICV 1',
+          section: "News",},{id: "projects-icv-1-wip",
+          title: 'ICV 1 (WIP)',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_ICV_1/";
-            },},{id: "projects-icv-2",
-          title: 'ICV 2',
+            },},{id: "projects-icv-2-wip",
+          title: 'ICV 2 (WIP)',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_ICV_2/";
@@ -432,8 +432,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/15_MDA_1/";
-            },},{id: "projects-vd-1",
-          title: 'VD 1',
+            },},{id: "projects-vd-1-vídeo",
+          title: 'VD 1 (Vídeo)',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/16_VD_1/";
@@ -472,8 +472,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/22_ML_2/";
-            },},{id: "projects-cyber-1",
-          title: 'Cyber 1',
+            },},{id: "projects-cyber-1-wip",
+          title: 'Cyber 1 (WIP)',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/23_Cyber_1/";
@@ -487,8 +487,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/25_EC_1/";
-            },},{id: "projects-cs-1",
-          title: 'CS 1',
+            },},{id: "projects-cs-1-wip",
+          title: 'CS 1 (WIP)',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/26_CS_1/";
@@ -502,13 +502,13 @@ ninja.data = [{
           description: "a project that redirects to another website",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_IT_1/";
-            },},{id: "projects-bio-1",
-          title: 'Bio 1',
+            },},{id: "projects-bio-1-wip",
+          title: 'Bio 1 (WIP)',
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_Bio_1/";
-            },},{id: "projects-ml-3",
-          title: 'ML 3',
+            },},{id: "projects-ml-3-vídeo",
+          title: 'ML 3 (Vídeo)',
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_ML_3/";
@@ -517,18 +517,18 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_RIM_1/";
-            },},{id: "projects-nlp-1",
-          title: 'NLP 1',
+            },},{id: "projects-nlp-1-wip",
+          title: 'NLP 1 (WIP)',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_NLP_1/";
-            },},{id: "projects-nlp-2",
-          title: 'NLP 2',
+            },},{id: "projects-nlp-2-wip",
+          title: 'NLP 2 (WIP)',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_NLP_2/";
-            },},{id: "projects-cyber-2",
-          title: 'Cyber 2',
+            },},{id: "projects-cyber-2-vídeo",
+          title: 'Cyber 2 (Vídeo)',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_Cyber_2/";
