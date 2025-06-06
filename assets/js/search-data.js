@@ -402,53 +402,53 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-9",
-          title: 'project 9',
+          section: "News",},{id: "projects-icv-1",
+          title: 'ICV 1',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_ICV_1/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-icv-2",
+          title: 'ICV 2',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_ICV_2/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-icv-3",
+          title: 'ICV 3',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_ICV_3/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-ml-1",
+          title: 'ML 1',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_ML_1/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-ad-1",
+          title: 'AD 1',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/14_AD_1/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-mda-1",
+          title: 'MDA 1',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/15_MDA_1/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-vd-1",
+          title: 'VD 1',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/16_VD_1/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-cn-1",
+          title: 'CN 1',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/17_CN_1/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-cn-2",
+          title: 'CN 2',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/18_CN_2/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-hm-1",
+          title: 'HM 1',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/19_HM_1/";
@@ -457,38 +457,38 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_POC_1/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-iia-1",
+          title: 'IIA 1',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/20_IFEC_1/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+              window.location.href = "/projects/20_IIA_1/";
+            },},{id: "projects-ifec-1",
+          title: 'IFEC 1',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/21_IIA_1/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+              window.location.href = "/projects/21_IFEC_1/";
+            },},{id: "projects-ml-2",
+          title: 'ML 2',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/22_ML_2/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-cyber-1",
+          title: 'Cyber 1',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/23_Cyber_1/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-iia-2",
+          title: 'IIA 2',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/24_IIA_2/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-ec-1",
+          title: 'EC 1',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/25_EC_1/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
+            },},{id: "projects-cs-1",
+          title: 'CS 1',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/26_CS_1/";
