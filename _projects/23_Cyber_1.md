@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 9
+title: Cyber 1
 description: another project with an image 🎉
-img: assets/img/6.jpg
-importance: 1
-category: fun
+#img: assets/img/6.jpg
+importance: 2
+category: "Machine Learning Clássico"
 ---
 
 Every project has a beautiful feature showcase page.

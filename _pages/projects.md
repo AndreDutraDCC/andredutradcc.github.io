@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of your cool projects.
 nav: true
 nav_order: 1
-display_categories: ["Explainable AI e Engenharia de Features", "Transformer LLMs e Processamento de Linguagem Natural", "work", "fun"]
+display_categories: ["Explainable AI e Engenharia de Features", "Transformer LLMs e Processamento de Linguagem Natural", "Computação Visual e Processamento de Imagens", "Descriptive Learning, Mineração e Análise de Dados", "Otimização em Espaço de Estados", "Machine Learning Clássico", "Ética na Computação"]
 horizontal: false
 ---
 
