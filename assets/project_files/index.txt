@@ -1,0 +1,75 @@
+AD_1    - itemset mining for soccer
+MDA_1   - airbnb data analysis
+VD_1    - bad words visualization
+
+CN_1    - evo algorithm for function 
+CN_2    - ant colony for clique
+HM_1    - simulated annealing variation
+IFEC_1  - simmulated annealing for TSP
+IIA_1   - 8-puzzle optimization
+
+IT_1    - feature importance analysis
+
+POC_1   - aCSM feature relevance assessment
+POC_2   - aCSM explainable framework
+BI_1    - CSM distance analysis
+
+ICV_1   - face image compression
+ICV_?  - HOG (TODO obter HOG)
+ICV_3   - captcha convolutional networks
+ML_1    - digit image classifier
+
+ML_2    - boosting from scratch
+ML_3    - taxi regression
+Cyber_1 - spam detection classifier
+IIA_2   - iris supervised and unsupervised models
+
+RIM_1   - midi melody extraction
+
+NLP_1   - pos tagging classifier
+NLP_2   - bad clauses classifier
+
+Cyber_2 - table anomalies detector
+
+EC_1    - Ethics in AI art
+CS_1    - dark patterns
+
+Explainable AI e Engenharia de Features
+    POC_1
+    POC_2
+    IT_1
+    BI_1
+    ML_3
+
+Transformer LLMs e Processamento de Linguagem Natural
+    RIM_1
+    NLP_1
+    NLP_2
+    Cyber_2
+
+Computação Visual e Processamento de Imagens
+    ICV_1
+    ICV_?
+    ICV_3
+    ML_1 
+
+Descriptive Learning, Mineração e Análise de Dados
+    AD_1
+    MDA_1
+    VD_1
+
+Otimização em Espaço de Estados
+    CN_1
+    CN_2
+    HM_1
+    IFEC_1
+    IIA_1
+
+Machine Learning Clássico
+    ML_2
+    Cyber_1
+    IIA_2
+
+Ética na Computação
+    EC_1
+    CS_1

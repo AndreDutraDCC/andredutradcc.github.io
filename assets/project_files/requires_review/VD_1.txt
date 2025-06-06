@@ -1,0 +1,23 @@
+Integrantes:
+
+	André Luiz Moreira Dutra
+	Hérico Gonçalves Valiati
+	Marcos Vinicius Caldeira Pacheco
+
+Contribuições:
+
+	André colaborou com a coleta de dados do DirtyWords e do Wikitionary, bem como tratamento e organização da estrutura de dados palavra/fonema que foi utilizada em todas as visualizações. Também ajudou na construção dos gráficos múltiplos de radar, e denvenvolveu o algoritmo responsável por gerar o gráfo mostrando a similaridade entre as diferentes línguas dos dados obtidos.
+	Hérico colaborou principalmente na construção do gráfico radar. Para isso, escreveu um script na linguagem Python que carrega os dados coletados para os diversos idiomas e processa a contagem dos fonemas mais frequentes em cada idioma. Após a contagem o script faz um fechamento com a finalidade de criar o dataset adequado para a apresentação do gráfico radar.
+	Marcos colaborou com a criação do diagrama de Pareto, mostrando a frequência dos fonemas para cada língua, bem como do gráfico de distribuição das palavras de todas as línguas, utilizando PCA. Além disso, foi responsável por organizar as visualizações na página web utilizando Flask, e por hostear a página utilizando Firebase para obter o link com as visualizações.
+
+Link de acesso à ferramenta:
+
+	https://phonemic-visualization.web.app/
+
+Link de acesso à apresentação:
+
+	https://youtu.be/KR1QNzQ50m8
+
+GitHub do projeto:
+
+	https://github.com/AndreDutraDCC/TP_Visualizacao/
