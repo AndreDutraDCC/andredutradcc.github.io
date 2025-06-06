@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 4
+title: Bio 1
 description: another without an image
-img:
-importance: 3
+#img:
+importance: 4
 category: "Explainable AI e Engenharia de Features"
 ---
 

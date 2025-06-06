@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 8
+title: NLP 2
 description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
+#img: assets/img/9.jpg
 importance: 2
-category: work
+category: "Transformer LLMs e Processamento de Linguagem Natural"
 giscus_comments: true
 ---
 

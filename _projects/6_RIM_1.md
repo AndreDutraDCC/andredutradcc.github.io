@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
+title: RIM 1
 description: a project with no image
-img:
-importance: 4
-category: "Wo  Ork"
+#img:
+importance: 1
+category: "Transformer LLMs e Processamento de Linguagem Natural"
 ---
 
 Every project has a beautiful feature showcase page.
