@@ -6,7 +6,7 @@ description: an other project with a background image and giscus comments
 importance: 2
 category: "Transformer LLMs e Processamento de Linguagem Natural"
 giscus_comments: true
-redirect: https://andredutradcc.github.io/assets/project_files/requires_review/NLP_2.ipynb
+redirect: https://andredutradcc.github.io/assets/project_files/NLP_2.ipynb
 ---
 
 Every project has a beautiful feature showcase page.

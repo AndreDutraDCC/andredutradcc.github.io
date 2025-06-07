@@ -1,6 +1,6 @@
 ---
 layout: page
-title: IFEC 1
+title: IFEC 1 (WIP)
 description: another project with an image 🎉
 #img: assets/img/6.jpg
 importance: 5
