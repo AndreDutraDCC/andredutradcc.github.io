@@ -462,8 +462,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/20_IIA_1/";
-            },},{id: "projects-ifec-1",
-          title: 'IFEC 1',
+            },},{id: "projects-ifec-1-wip",
+          title: 'IFEC 1 (WIP)',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/21_IFEC_1/";
@@ -472,11 +472,6 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/22_ML_2/";
-            },},{id: "projects-cyber-1-wip",
-          title: 'Cyber 1 (WIP)',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/23_Cyber_1/";
             },},{id: "projects-iia-2",
           title: 'IIA 2',
           description: "another project with an image 🎉",
@@ -527,6 +522,11 @@ ninja.data = [{
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_NLP_2/";
+            },},{id: "projects-cyber-1",
+          title: 'Cyber 1',
+          description: "another project with an image 🎉",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/9_Cyber_1/";
             },},{id: "projects-cyber-2-vídeo",
           title: 'Cyber 2 (Vídeo)',
           description: "another project with an image 🎉",
