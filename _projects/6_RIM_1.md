@@ -3,7 +3,7 @@ layout: page
 title: RIM 1
 description: a project with no image
 #img:
-importance: 1
+importance: 3
 category: "Transformer LLMs e Processamento de Linguagem Natural"
 redirect: https://andredutradcc.github.io/assets/project_files/RIM_1.pdf
 ---

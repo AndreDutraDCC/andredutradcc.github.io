@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Cyber 2 (Vídeo)
+title: "[Seminário] Cyber 2"
 description: another project with an image 🎉
 #img: assets/img/6.jpg
-importance: 3
+importance: 6
 category: "Transformer LLMs e Processamento de Linguagem Natural"
 redirect: https://www.youtube.com/watch?v=u7ga25xim2c
 ---

@@ -2,7 +2,7 @@
 layout: page
 title: projetos
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Este portófilo contém os meus principais projetos voltados à área de Ciência de Dados e Aprendizado de Máquina, categorizados por área de estudo.
 nav: true
 nav_order: 1
 display_categories:
@@ -13,7 +13,7 @@ display_categories:
     "Descriptive Learning, Mineração e Análise de Dados",
     "Otimização em Espaço de Estados",
     "Machine Learning Clássico",
-    "Ética na Computação",
+    "Ética na Computação e no Manejo de IAs",
   ]
 horizontal: false
 ---

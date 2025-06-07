@@ -3,7 +3,7 @@ layout: page
 title: NLP 2
 description: an other project with a background image and giscus comments
 #img: assets/img/9.jpg
-importance: 2
+importance: 1
 category: "Transformer LLMs e Processamento de Linguagem Natural"
 giscus_comments: true
 redirect: https://andredutradcc.github.io/assets/project_files/NLP_2.ipynb
