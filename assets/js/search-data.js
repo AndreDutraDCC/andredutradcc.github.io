@@ -11,7 +11,7 @@ ninja.data = [{
     },
   },{id: "nav-projetos",
           title: "projetos",
-          description: "A growing collection of your cool projects.",
+          description: "Este portófilo contém os meus principais projetos voltados à área de Ciência de Dados e Aprendizado de Máquina, categorizados por área de estudo.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -432,8 +432,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/15_MDA_1/";
-            },},{id: "projects-vd-1-vídeo",
-          title: 'VD 1 (Vídeo)',
+            },},{id: "projects-seminário-vd-1",
+          title: '[Seminário] VD 1',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/16_VD_1/";
@@ -502,8 +502,8 @@ ninja.data = [{
           description: "another without an image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_Bio_1/";
-            },},{id: "projects-ml-3-vídeo",
-          title: 'ML 3 (Vídeo)',
+            },},{id: "projects-seminário-ml-3",
+          title: '[Seminário] ML 3',
           description: "a project with a background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_ML_3/";
@@ -527,8 +527,8 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_Cyber_1/";
-            },},{id: "projects-cyber-2-vídeo",
-          title: 'Cyber 2 (Vídeo)',
+            },},{id: "projects-seminário-cyber-2",
+          title: '[Seminário] Cyber 2',
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_Cyber_2/";
