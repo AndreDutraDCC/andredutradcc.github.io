@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NLP 2 (WIP)
+title: NLP 2
 description: an other project with a background image and giscus comments
 #img: assets/img/9.jpg
 importance: 2
