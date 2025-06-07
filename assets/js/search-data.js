@@ -512,13 +512,13 @@ ninja.data = [{
           description: "a project with no image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_RIM_1/";
-            },},{id: "projects-nlp-1-wip",
-          title: 'NLP 1 (WIP)',
+            },},{id: "projects-nlp-1",
+          title: 'NLP 1',
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_NLP_1/";
-            },},{id: "projects-nlp-2-wip",
-          title: 'NLP 2 (WIP)',
+            },},{id: "projects-nlp-2",
+          title: 'NLP 2',
           description: "an other project with a background image and giscus comments",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_NLP_2/";
