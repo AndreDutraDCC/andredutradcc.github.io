@@ -1,8 +1,8 @@
 ---
 layout: page
-title: POC 2
-description: a project with a background image and giscus comments
-#img: assets/img/3.jpg
+title: "aCSM-Explanation: Uma ténica de visualização molecular voltada à explicabilidade de classificações de instâncias baseadas em assinaturas estruturais aCSM"
+description:
+img: assets/img/POC_2.jpg
 importance: 2
 category: "Explainable AI e Engenharia de Features"
 giscus_comments: true

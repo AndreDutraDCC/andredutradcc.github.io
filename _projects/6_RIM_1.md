@@ -1,8 +1,8 @@
 ---
 layout: page
-title: RIM 1
-description: a project with no image
-#img:
+title: Comparação de modelos estado da arte para extração de melodia de músicas em MIDI
+description:
+img: assets/img/RIM_1.jpg
 importance: 3
 category: "Transformer LLMs e Processamento de Linguagem Natural"
 redirect: https://andredutradcc.github.io/assets/project_files/RIM_1.pdf

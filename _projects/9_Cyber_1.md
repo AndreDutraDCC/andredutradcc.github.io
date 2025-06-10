@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Cyber 1
-description: another project with an image 🎉
-#img: assets/img/6.jpg
+title: "DeLIForest: Um detector de SPAMs via aprendizado supervisionado que supera abordagens precedentes"
+description:
+img: assets/img/Cyber_1.jpg
 importance: 5
 category: "Transformer LLMs e Processamento de Linguagem Natural"
 redirect: https://andredutradcc.github.io/assets/project_files/Cyber_1.ipynb

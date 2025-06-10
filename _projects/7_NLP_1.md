@@ -1,8 +1,8 @@
 ---
 layout: page
-title: NLP 1
-description: with background image
-#img: assets/img/4.jpg
+title: NLP 1 (WIP)
+description:
+img: assets/img/NLP_1.jpg
 importance: 2
 category: "Transformer LLMs e Processamento de Linguagem Natural"
 related_publications: true

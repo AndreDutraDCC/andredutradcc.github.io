@@ -11,7 +11,7 @@ display_categories:
     "Transformer LLMs e Processamento de Linguagem Natural",
     "Computação Visual e Processamento de Imagens",
     "Descriptive Learning, Mineração e Análise de Dados",
-    "Otimização em Espaço de Estados",
+    "Heurísticas e Otimização em Espaço de Estados",
     "Machine Learning Clássico",
     "Ética na Computação e no Manejo de IAs",
   ]

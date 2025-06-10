@@ -1,10 +1,10 @@
 ---
 layout: page
 title: IFEC 1 (WIP)
-description: another project with an image 🎉
-#img: assets/img/6.jpg
+description:
+img: assets/img/IFEC_1.jpg
 importance: 5
-category: "Otimização em Espaço de Estados"
+category: "Heurísticas e Otimização em Espaço de Estados"
 redirect: https://andredutradcc.github.io/assets/project_files/IFEC_1.pdf
 ---
 

@@ -1,8 +1,8 @@
 ---
 layout: page
-title: "[Seminário] Cyber 2"
-description: another project with an image 🎉
-#img: assets/img/6.jpg
+title: '[Seminário] "Beyond Individual Input for Deep Anomaly Detection on Tabular Data": Desvendando o atual modelo estado-da-arte em detecção de anomalias em dados tabulares'
+description:
+img: assets/img/Cyber_2.jpg
 importance: 6
 category: "Transformer LLMs e Processamento de Linguagem Natural"
 redirect: https://www.youtube.com/watch?v=u7ga25xim2c
