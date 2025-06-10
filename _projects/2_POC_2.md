@@ -2,7 +2,7 @@
 layout: page
 title: "aCSM-Explanation: Uma ténica de visualização molecular voltada à explicabilidade de classificações de instâncias baseadas em assinaturas estruturais aCSM"
 description:
-img: assets/img/POC_2.jpg
+img: assets/img/POC_2.png
 importance: 2
 category: "Explainable AI e Engenharia de Features"
 giscus_comments: true

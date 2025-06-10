@@ -2,7 +2,7 @@
 layout: page
 title: POC 1 (WIP)
 description:
-img: assets/img/POC_1.jpg
+img: assets/img/POC_1.png
 importance: 1
 category: "Explainable AI e Engenharia de Features"
 related_publications: true
