@@ -404,132 +404,137 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-icv-1-wip",
           title: 'ICV 1 (WIP)',
-          description: "another project with an image 🎉",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_ICV_1/";
-            },},{id: "projects-icv-2-wip",
-          title: 'ICV 2 (WIP)',
-          description: "another project with an image 🎉",
+            },},{id: "projects-histogramas-de-gradientes-orientados-hog-uma-implementação-prática-do-algoritmo-aplicada-ao-dataset-fashion-mnist",
+          title: 'Histogramas de Gradientes Orientados (HOG): uma implementação prática do algoritmo aplicada ao dataset...',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_ICV_2/";
-            },},{id: "projects-icv-3",
-          title: 'ICV 3',
-          description: "another project with an image 🎉",
+            },},{id: "projects-icv-3-wip",
+          title: 'ICV 3 (WIP)',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_ICV_3/";
-            },},{id: "projects-ml-1",
-          title: 'ML 1',
-          description: "another project with an image 🎉",
+            },},{id: "projects-ml-1-wip",
+          title: 'ML 1 (WIP)',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_ML_1/";
-            },},{id: "projects-ad-1",
-          title: 'AD 1',
-          description: "another project with an image 🎉",
+            },},{id: "projects-how-to-win-uma-análise-exploratória-de-dados-de-partidas-vitoriosas-da-la-liga-usando-o-fp-growth",
+          title: 'How to Win: Uma análise exploratória de dados de partidas vitoriosas da La...',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/14_AD_1/";
-            },},{id: "projects-mda-1",
-          title: 'MDA 1',
-          description: "another project with an image 🎉",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/15_MDA_1/";
-            },},{id: "projects-seminário-vd-1",
-          title: '[Seminário] VD 1',
-          description: "another project with an image 🎉",
+            },},{id: "projects-seminário-vd-1-wip",
+          title: '[Seminário] VD 1 (WIP)',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/16_VD_1/";
-            },},{id: "projects-cn-1",
-          title: 'CN 1',
-          description: "another project with an image 🎉",
+            },},{id: "projects-cn-1-wip",
+          title: 'CN 1 (WIP)',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/17_CN_1/";
-            },},{id: "projects-cn-2",
-          title: 'CN 2',
-          description: "another project with an image 🎉",
+            },},{id: "projects-cn-2-wip",
+          title: 'CN 2 (WIP)',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/18_CN_2/";
-            },},{id: "projects-hm-1",
-          title: 'HM 1',
-          description: "another project with an image 🎉",
+            },},{id: "projects-hm-1-wip",
+          title: 'HM 1 (WIP)',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/19_HM_1/";
-            },},{id: "projects-poc-1",
-          title: 'POC 1',
-          description: "with background image",
+            },},{id: "projects-poc-1-wip",
+          title: 'POC 1 (WIP)',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_POC_1/";
-            },},{id: "projects-iia-1",
-          title: 'IIA 1',
-          description: "another project with an image 🎉",
+            },},{id: "projects-iia-1-wip",
+          title: 'IIA 1 (WIP)',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/20_IIA_1/";
             },},{id: "projects-ifec-1-wip",
           title: 'IFEC 1 (WIP)',
-          description: "another project with an image 🎉",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/21_IFEC_1/";
-            },},{id: "projects-ml-2",
-          title: 'ML 2',
-          description: "another project with an image 🎉",
+            },},{id: "projects-ml-2-wip",
+          title: 'ML 2 (WIP)',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/22_ML_2/";
-            },},{id: "projects-iia-2",
-          title: 'IIA 2',
-          description: "another project with an image 🎉",
+            },},{id: "projects-iia-2-wip",
+          title: 'IIA 2 (WIP)',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/24_IIA_2/";
-            },},{id: "projects-ec-1",
-          title: 'EC 1',
-          description: "another project with an image 🎉",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/25_EC_1/";
-            },},{id: "projects-cs-1-wip",
-          title: 'CS 1 (WIP)',
-          description: "another project with an image 🎉",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/26_CS_1/";
-            },},{id: "projects-poc-2",
-          title: 'POC 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/27_AlgII_1/";
+            },},{id: "projects-acsm-explanation-uma-ténica-de-visualização-molecular-voltada-à-explicabilidade-de-classificações-de-instâncias-baseadas-em-assinaturas-estruturais-acsm",
+          title: 'aCSM-Explanation: Uma ténica de visualização molecular voltada à explicabilidade de classificações de instâncias...',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_POC_2/";
-            },},{id: "projects-it-1",
-          title: 'IT 1',
-          description: "a project that redirects to another website",
+            },},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_IT_1/";
             },},{id: "projects-bio-1-wip",
           title: 'Bio 1 (WIP)',
-          description: "another without an image",
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_Bio_1/";
-            },},{id: "projects-seminário-ml-3",
-          title: '[Seminário] ML 3',
-          description: "a project with a background image",
+            },},{id: "projects-seminário-ml-3-wip",
+          title: '[Seminário] ML 3 (WIP)',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_ML_3/";
-            },},{id: "projects-rim-1",
-          title: 'RIM 1',
-          description: "a project with no image",
+            },},{id: "projects-comparação-de-modelos-estado-da-arte-para-extração-de-melodia-de-músicas-em-midi",
+          title: 'Comparação de modelos estado da arte para extração de melodia de músicas em...',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_RIM_1/";
-            },},{id: "projects-nlp-1",
-          title: 'NLP 1',
-          description: "with background image",
+            },},{id: "projects-nlp-1-wip",
+          title: 'NLP 1 (WIP)',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_NLP_1/";
-            },},{id: "projects-nlp-2",
-          title: 'NLP 2',
-          description: "an other project with a background image and giscus comments",
+            },},{id: "projects-detecção-de-cláusulas-potencialmente-injustas-em-contratos-de-termos-de-uso-utilizando-fine-tuning-no-legal-bert",
+          title: 'Detecção de cláusulas potencialmente injustas em contratos de Termos de Uso utilizando fine-tuning...',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_NLP_2/";
-            },},{id: "projects-cyber-1",
-          title: 'Cyber 1',
-          description: "another project with an image 🎉",
+            },},{id: "projects-deliforest-um-detector-de-spams-via-aprendizado-supervisionado-que-supera-abordagens-precedentes",
+          title: 'DeLIForest: Um detector de SPAMs via aprendizado supervisionado que supera abordagens precedentes',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_Cyber_1/";
-            },},{id: "projects-seminário-cyber-2",
-          title: '[Seminário] Cyber 2',
-          description: "another project with an image 🎉",
+            },},{id: "projects-seminário-quot-beyond-individual-input-for-deep-anomaly-detection-on-tabular-data-quot-desvendando-o-atual-modelo-estado-da-arte-em-detecção-de-anomalias-em-dados-tabulares",
+          title: '[Seminário] &amp;quot;Beyond Individual Input for Deep Anomaly Detection on Tabular Data&amp;quot;: Desvendando o...',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_Cyber_2/";
             },},{

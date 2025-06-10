@@ -73,3 +73,15 @@ Machine Learning Clássico
 Ética na Computação
     EC_1
     CS_1
+   
+TO RENAME
+IFEC1
+ICV3
+CN1
+CN2
+IIA1
+IIA2
+ML1
+ML2
+NLP1
+
