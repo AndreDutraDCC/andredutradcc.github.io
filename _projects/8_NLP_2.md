@@ -2,7 +2,7 @@
 layout: page
 title: Detecção de cláusulas potencialmente injustas em contratos de Termos de Uso utilizando fine-tuning no LEGAL-BERT
 description:
-img: assets/img/NLP_2.jpg
+img: assets/img/NLP_2.png
 importance: 1
 category: "Transformer LLMs e Processamento de Linguagem Natural"
 giscus_comments: true

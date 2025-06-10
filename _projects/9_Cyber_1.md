@@ -2,7 +2,7 @@
 layout: page
 title: "DeLIForest: Um detector de SPAMs via aprendizado supervisionado que supera abordagens precedentes"
 description:
-img: assets/img/Cyber_1.jpg
+img: assets/img/Cyber_1.png
 importance: 5
 category: "Transformer LLMs e Processamento de Linguagem Natural"
 redirect: https://andredutradcc.github.io/assets/project_files/Cyber_1.ipynb
