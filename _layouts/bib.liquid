@@ -215,7 +215,7 @@
         {% if entry.ipynb contains '://' %}
           <a href="{{ entry.ipynb }}" class="btn btn-sm z-depth-0" role="button">Jupyter Notebook</a>
         {% else %}
-          <a href="{{ entry.ipynb | prepend: '/assets/project_files/' | relative_url }}" class="btn btn-sm z-depth-0" role="button"
+          <a href="{{ entry.ipynb | prepend: '/assets/ipynb/' | relative_url }}" class="btn btn-sm z-depth-0" role="button"
             >Jupyter Notebook</a
           >
         {% endif %}
