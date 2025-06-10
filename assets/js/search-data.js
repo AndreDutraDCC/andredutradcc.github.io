@@ -477,13 +477,13 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/24_IIA_2/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-quot-accept-all-cookies-quot-dilemas-éticos-no-desenvolvimento-de-interfaces-de-usuário",
+          title: '&amp;quot;Accept All Cookies&amp;quot;: Dilemas éticos no desenvolvimento de interfaces de usuário',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/25_EC_1/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-quot-imagem-feita-por-ia-é-arte-quot-dilemas-sociais-do-uso-de-tecnologias-de-ponta-no-contexto-artístico",
+          title: '&amp;quot;Imagem feita por IA é arte?&amp;quot;: Dilemas sociais do uso de tecnologias de...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/26_CS_1/";
