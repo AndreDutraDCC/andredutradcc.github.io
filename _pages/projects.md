@@ -1,6 +1,6 @@
 ---
 layout: page
-title: projetos
+title: Portfólio
 permalink: /projects/
 description: Este portófilo contém os meus principais projetos voltados à área de Ciência de Dados e Aprendizado de Máquina, categorizados por área de estudo.
 nav: true
