@@ -1,6 +1,6 @@
 ---
 layout: page
-title: POC 1 (WIP)
+title: Avaliação de três métodos de feature-importance para a explicabilidade de features estruturais de peptídeos geradas usando o método aCSM
 description:
 img: assets/img/POC_1.png
 importance: 1

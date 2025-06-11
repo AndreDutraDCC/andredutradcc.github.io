@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NLP 1 (WIP)
+title: "Parts-of-Speech Tagging: Classificação de classes gramaticais em sentenças da língua-portuguesa utilizando fine-tuning do BERTimbau"
 description:
 img: assets/img/NLP_1.png
 importance: 2

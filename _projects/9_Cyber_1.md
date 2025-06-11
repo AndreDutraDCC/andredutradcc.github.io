@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "DeLIForest: Um detector de SPAMs via aprendizado supervisionado que supera abordagens precedentes"
+title: "\"DeLIForest\": Um detector de SPAMs via aprendizado supervisionado que supera abordagens precedentes"
 description:
 img: assets/img/Cyber_1.png
 importance: 5
