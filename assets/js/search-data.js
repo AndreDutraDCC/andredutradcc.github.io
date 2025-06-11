@@ -122,13 +122,13 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/27_AlgII_1/";
-            },},{id: "projects-acsm-explanation-uma-ténica-de-visualização-molecular-voltada-à-explicabilidade-de-classificações-de-instâncias-baseadas-em-assinaturas-estruturais-acsm",
-          title: 'aCSM-Explanation: Uma ténica de visualização molecular voltada à explicabilidade de classificações de instâncias...',
+            },},{id: "projects-acsm-explanation-uma-ténica-de-visualização-molecular-voltada-à-explicabilidade-de-classificadores-baseados-em-assinaturas-estruturais-acsm",
+          title: 'aCSM-Explanation: Uma ténica de visualização molecular voltada à explicabilidade de classificadores baseados em...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_POC_2/";
-            },},{id: "projects-revisão-da-literatura-métodos-de-seleção-de-features-baseados-em-teoria-da-informação",
-          title: '[Revisão da Literatura] Métodos de Seleção de Features Baseados em Teoria da Informação...',
+            },},{id: "projects-revisão-da-literatura-levantamento-de-métodos-de-seleção-de-features-baseados-em-teoria-da-informação",
+          title: '[Revisão da Literatura] Levantamento de métodos de Seleção de Features baseados em Teoria...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_IT_1/";
