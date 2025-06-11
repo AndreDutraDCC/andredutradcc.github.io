@@ -402,23 +402,23 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-icv-1-wip",
-          title: 'ICV 1 (WIP)',
+          section: "News",},{id: "projects-wip-compressor-de-imagens-com-perda-voltado-para-imagens-de-rostos-humanos-via-isolamento-de-traços-faciais-usando-transformadas-dct",
+          title: '(WIP) Compressor de Imagens com perda voltado para imagens de rostos humanos via...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/10_ICV_1/";
-            },},{id: "projects-histogramas-de-gradientes-orientados-hog-uma-implementação-prática-do-algoritmo-aplicada-ao-dataset-fashion-mnist",
-          title: 'Histogramas de Gradientes Orientados (HOG): uma implementação prática do algoritmo aplicada ao dataset...',
+            },},{id: "projects-wip-histogramas-de-gradientes-orientados-hog-uma-implementação-prática-do-algoritmo-aplicada-ao-dataset-fashion-mnist",
+          title: '(WIP) Histogramas de Gradientes Orientados (HOG): uma implementação prática do algoritmo aplicada ao...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/11_ICV_2/";
-            },},{id: "projects-icv-3-wip",
-          title: 'ICV 3 (WIP)',
+            },},{id: "projects-wip-quot-i-39-m-not-a-robot-quot-aplicação-de-uma-arquitetura-autoral-de-redes-convolucionais-cnn-para-a-automatização-do-reconhecimento-de-captcha",
+          title: '(WIP) &amp;quot;I&amp;#39;m not a robot&amp;quot;: Aplicação de uma arquitetura autoral de Redes Convolucionais...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/12_ICV_3/";
-            },},{id: "projects-ml-1-wip",
-          title: 'ML 1 (WIP)',
+            },},{id: "projects-análise-do-desempenho-de-diferentes-configurações-de-redes-neurais-mlp-no-problema-de-classificação-de-imagens-de-dígitos-mnist",
+          title: 'Análise do desempenho de diferentes configurações de redes neurais MLP no problema de...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/13_ML_1/";
@@ -427,53 +427,53 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/14_AD_1/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-análise-exploratória-multimetodológica-de-dados-do-airbnb-da-cidade-do-rio-de-janeiro",
+          title: 'Análise Exploratória Multimetodológica de Dados do Airbnb da cidade do Rio de Janeiro...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/15_MDA_1/";
-            },},{id: "projects-seminário-vd-1-wip",
-          title: '[Seminário] VD 1 (WIP)',
+            },},{id: "projects-seminário-quot-palaˈvɾɐ̃w̃-quot-uma-análise-interlinguística-de-padrões-fonéticos-e-expressivos-de-palavras-de-baixo-calão-via-diferentes-visualizações-de-dados-de-fonemas",
+          title: '[Seminário] &amp;quot;palaˈvɾɐ̃w̃&amp;quot;: uma análise interlinguística de padrões fonéticos e expressivos de palavras de...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/16_VD_1/";
-            },},{id: "projects-cn-1-wip",
-          title: 'CN 1 (WIP)',
+            },},{id: "projects-problema-da-regressão-simbólica-uma-abordagem-baseada-em-programação-genética",
+          title: 'Problema da regressão simbólica: uma abordagem baseada em Programação Genética',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/17_CN_1/";
-            },},{id: "projects-cn-2-wip",
-          title: 'CN 2 (WIP)',
+            },},{id: "projects-quot-macaco-quot-uma-abordagem-heurística-ao-problema-do-clique-máximo-utilizando-otimização-por-colônia-de-formigas-aco",
+          title: '&amp;quot;MaCACO&amp;quot;: Uma abordagem heurística ao problema do clique máximo utilizando Otimização por Colônia...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/18_CN_2/";
-            },},{id: "projects-hm-1-wip",
-          title: 'HM 1 (WIP)',
+            },},{id: "projects-problema-do-roteamento-de-veículos-com-janelas-de-tempo-uma-abordagem-híbrida-de-melhoria-de-metaheurísticas-já-existentes-baseada-em-buscas-locais",
+          title: 'Problema do roteamento de veículos com janelas de tempo: Uma abordagem híbrida de...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/19_HM_1/";
-            },},{id: "projects-poc-1-wip",
-          title: 'POC 1 (WIP)',
+            },},{id: "projects-avaliação-de-três-métodos-de-feature-importance-para-a-explicabilidade-de-features-estruturais-de-peptídeos-geradas-usando-o-método-acsm",
+          title: 'Avaliação de três métodos de feature-importance para a explicabilidade de features estruturais de...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_POC_1/";
-            },},{id: "projects-iia-1-wip",
-          title: 'IIA 1 (WIP)',
+            },},{id: "projects-análise-comparativa-de-seis-métodos-clássicos-de-busca-em-espaço-de-estados-para-a-solução-do-problema-8-puzzle",
+          title: 'Análise comparativa de seis métodos clássicos de Busca em Espaço de Estados para...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/20_IIA_1/";
-            },},{id: "projects-ifec-1-wip",
-          title: 'IFEC 1 (WIP)',
+            },},{id: "projects-problema-do-caixeiro-viajante-uma-abordagem-de-otimização-baseada-em-simulated-annealing",
+          title: 'Problema do Caixeiro Viajante: Uma abordagem de otimização baseada em Simulated Annealing',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/21_IFEC_1/";
-            },},{id: "projects-ml-2-wip",
-          title: 'ML 2 (WIP)',
+            },},{id: "projects-implementação-do-algoritmo-adaboost-e-avaliação-de-desempenho-de-diferentes-configurações-na-previsão-do-jogo-da-velha",
+          title: 'Implementação do algoritmo AdaBoost e avaliação de desempenho de diferentes configurações na previsão...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/22_ML_2/";
-            },},{id: "projects-iia-2-wip",
-          title: 'IIA 2 (WIP)',
+            },},{id: "projects-implementação-dos-algoritmos-k-nearest-neighbors-e-k-means-avaliação-de-sua-aplicação-ao-dataset-iris",
+          title: 'Implementação dos algoritmos k-Nearest-Neighbors e k-Means Avaliação de sua aplicação ao dataset Iris...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/24_IIA_2/";
@@ -487,8 +487,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/26_CS_1/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-implementação-e-análise-comparativa-de-três-diferentes-algoritmos-e-heurísticas-para-o-problema-do-caixeiro-viajante-métrico",
+          title: 'Implementação e Análise Comparativa de Três Diferentes Algoritmos e Heurísticas para o Problema...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/27_AlgII_1/";
@@ -497,18 +497,18 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_POC_2/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-revisão-da-literatura-métodos-de-seleção-de-features-baseados-em-teoria-da-informação",
+          title: '[Revisão da Literatura] Métodos de Seleção de Features Baseados em Teoria da Informação...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_IT_1/";
-            },},{id: "projects-bio-1-wip",
-          title: 'Bio 1 (WIP)',
+            },},{id: "projects-proposta-de-otimização-do-método-csm-de-extração-de-features-de-proteínas-via-três-métricas-de-distância",
+          title: 'Proposta de otimização do método CSM de Extração de Features de Proteínas via...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_Bio_1/";
-            },},{id: "projects-seminário-ml-3-wip",
-          title: '[Seminário] ML 3 (WIP)',
+            },},{id: "projects-seminário-regressão-com-aplicação-de-engenharia-de-features-em-dados-heterogêneos-para-a-tarefa-de-previsão-de-tarifas-de-taxi",
+          title: '[Seminário] Regressão com aplicação de Engenharia de Features em dados heterogêneos para a...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_ML_3/";
@@ -517,8 +517,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_RIM_1/";
-            },},{id: "projects-nlp-1-wip",
-          title: 'NLP 1 (WIP)',
+            },},{id: "projects-parts-of-speech-tagging-classificação-de-classes-gramaticais-em-sentenças-da-língua-portuguesa-utilizando-fine-tuning-do-bertimbau",
+          title: 'Parts-of-Speech Tagging: Classificação de classes gramaticais em sentenças da língua-portuguesa utilizando fine-tuning do...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/7_NLP_1/";
@@ -527,8 +527,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_NLP_2/";
-            },},{id: "projects-deliforest-um-detector-de-spams-via-aprendizado-supervisionado-que-supera-abordagens-precedentes",
-          title: 'DeLIForest: Um detector de SPAMs via aprendizado supervisionado que supera abordagens precedentes',
+            },},{id: "projects-quot-deliforest-quot-um-detector-de-spams-via-aprendizado-supervisionado-que-supera-abordagens-precedentes",
+          title: '&amp;quot;DeLIForest&amp;quot;: Um detector de SPAMs via aprendizado supervisionado que supera abordagens precedentes',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_Cyber_1/";
