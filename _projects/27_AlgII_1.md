@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Implementação e Análise Comparativa de Três Diferentes Algoritmos e Heurísticas para o Problema do Caixeiro Viajante Métrico
-description: 
+description:
 img: assets/img/AlgII_1.png
 importance: 3
 category: "Heurísticas e Otimização em Espaço de Estados"
