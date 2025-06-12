@@ -62,8 +62,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/15_MDA_1/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-seminário-quot-pala-vɾɐ̃w̃-quot-uma-análise-interlinguística-de-padrões-fonéticos-e-expressivos-de-palavras-de-baixo-calão-via-diferentes-visualizações-de-dados-de-fonemas",
+          title: '[Seminário] &amp;quot;pala’vɾɐ̃w̃&amp;quot;: uma análise interlinguística de padrões fonéticos e expressivos de palavras de...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/16_VD_1/";
@@ -82,8 +82,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/19_HM_1/";
-            },},{id: "projects-avaliação-de-três-métodos-de-feature-importance-para-a-explicabilidade-de-features-estruturais-de-peptídeos-geradas-usando-o-método-acsm",
-          title: 'Avaliação de três métodos de feature-importance para a explicabilidade de features estruturais de...',
+            },},{id: "projects-tcc-1-avaliação-de-quatro-métodos-de-feature-importance-para-a-explicabilidade-de-features-estruturais-de-peptídeos-geradas-usando-o-método-acsm",
+          title: '[TCC 1] Avaliação de quatro métodos de feature-importance para a explicabilidade de features...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_POC_1/";
@@ -122,8 +122,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/27_AlgII_1/";
-            },},{id: "projects-acsm-explanation-uma-ténica-de-visualização-molecular-voltada-à-explicabilidade-de-classificadores-baseados-em-assinaturas-estruturais-acsm",
-          title: 'aCSM-Explanation: Uma ténica de visualização molecular voltada à explicabilidade de classificadores baseados em...',
+            },},{id: "projects-tcc-2-quot-acsm-explanation-quot-uma-ténica-de-visualização-molecular-voltada-à-explicabilidade-de-classificadores-baseados-em-assinaturas-estruturais-acsm",
+          title: '[TCC 2] &amp;quot;aCSM-Explanation&amp;quot;: Uma ténica de visualização molecular voltada à explicabilidade de classificadores...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_POC_2/";
