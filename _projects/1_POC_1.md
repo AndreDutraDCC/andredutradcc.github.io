@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Avaliação de três métodos de feature-importance para a explicabilidade de features estruturais de peptídeos geradas usando o método aCSM
+title: "[TCC 1] Avaliação de quatro métodos de feature-importance para a explicabilidade de features estruturais de peptídeos geradas usando o método aCSM"
 description:
 img: assets/img/POC_1.png
 importance: 1
