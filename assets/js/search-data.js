@@ -62,8 +62,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/15_MDA_1/";
-            },},{id: "projects-seminário-quot-pala-vɾɐ̃w̃-quot-uma-análise-interlinguística-de-padrões-fonéticos-e-expressivos-de-palavras-de-baixo-calão-via-diferentes-visualizações-de-dados-de-fonemas",
-          title: '[Seminário] &amp;quot;pala’vɾɐ̃w̃&amp;quot;: uma análise interlinguística de padrões fonéticos e expressivos de palavras de...',
+            },},{id: "projects-seminário-quot-pala-vɾɐ̃w̃-quot-uma-análise-interlinguística-de-padrões-fonéticos-e-expressivos-em-palavras-de-baixo-calão-via-diferentes-visualizações-de-dados-de-fonemas",
+          title: '[Seminário] &amp;quot;pala’vɾɐ̃w̃&amp;quot;: uma análise interlinguística de padrões fonéticos e expressivos em palavras de...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/16_VD_1/";
