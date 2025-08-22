@@ -167,6 +167,141 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_Cyber_2/";
+            },},{id: "projects_en-wip-compressor-de-imagens-com-perda-voltado-para-imagens-de-rostos-humanos-via-isolamento-de-traços-faciais-usando-transformadas-dct",
+          title: '(WIP) Compressor de Imagens com perda voltado para imagens de rostos humanos via...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/10_ICV_1/";
+            },},{id: "projects_en-wip-histogramas-de-gradientes-orientados-hog-uma-implementação-prática-do-algoritmo-aplicada-ao-dataset-fashion-mnist",
+          title: '(WIP) Histogramas de Gradientes Orientados (HOG): uma implementação prática do algoritmo aplicada ao...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/11_ICV_2/";
+            },},{id: "projects_en-wip-quot-i-39-m-not-a-robot-quot-aplicação-de-uma-arquitetura-autoral-de-redes-convolucionais-cnn-para-a-automatização-do-reconhecimento-de-captcha",
+          title: '(WIP) &amp;quot;I&amp;#39;m not a robot&amp;quot;: Aplicação de uma arquitetura autoral de Redes Convolucionais...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/12_ICV_3/";
+            },},{id: "projects_en-análise-do-desempenho-de-diferentes-configurações-de-redes-neurais-mlp-no-problema-de-classificação-de-imagens-de-dígitos-mnist",
+          title: 'Análise do desempenho de diferentes configurações de redes neurais MLP no problema de...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/13_ML_1/";
+            },},{id: "projects_en-how-to-win-uma-análise-exploratória-de-dados-de-partidas-vitoriosas-da-la-liga-usando-o-fp-growth",
+          title: 'How to Win: Uma análise exploratória de dados de partidas vitoriosas da La...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/14_AD_1/";
+            },},{id: "projects_en-análise-exploratória-multimetodológica-de-dados-do-airbnb-da-cidade-do-rio-de-janeiro",
+          title: 'Análise Exploratória Multimetodológica de Dados do Airbnb da cidade do Rio de Janeiro...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/15_MDA_1/";
+            },},{id: "projects_en-seminário-quot-pala-vɾɐ̃w̃-quot-uma-análise-interlinguística-de-padrões-fonéticos-e-expressivos-em-palavras-de-baixo-calão-via-diferentes-visualizações-de-dados-de-fonemas",
+          title: '[Seminário] &amp;quot;pala’vɾɐ̃w̃&amp;quot;: uma análise interlinguística de padrões fonéticos e expressivos em palavras de...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/16_VD_1/";
+            },},{id: "projects_en-problema-da-regressão-simbólica-uma-abordagem-baseada-em-programação-genética",
+          title: 'Problema da regressão simbólica: uma abordagem baseada em Programação Genética',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/17_CN_1/";
+            },},{id: "projects_en-quot-macaco-quot-uma-abordagem-heurística-ao-problema-do-clique-máximo-utilizando-otimização-por-colônia-de-formigas-aco",
+          title: '&amp;quot;MaCACO&amp;quot;: Uma abordagem heurística ao problema do clique máximo utilizando Otimização por Colônia...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/18_CN_2/";
+            },},{id: "projects_en-problema-do-roteamento-de-veículos-com-janelas-de-tempo-uma-abordagem-híbrida-de-melhoria-de-metaheurísticas-já-existentes-baseada-em-buscas-locais",
+          title: 'Problema do roteamento de veículos com janelas de tempo: Uma abordagem híbrida de...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/19_HM_1/";
+            },},{id: "projects_en-tcc-1-avaliação-de-quatro-métodos-de-feature-importance-para-a-explicabilidade-de-features-estruturais-de-peptídeos-geradas-usando-o-método-acsm",
+          title: '[TCC 1] Avaliação de quatro métodos de feature-importance para a explicabilidade de features...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/1_POC_1/";
+            },},{id: "projects_en-análise-comparativa-de-seis-métodos-clássicos-de-busca-em-espaço-de-estados-para-a-solução-do-problema-8-puzzle",
+          title: 'Análise comparativa de seis métodos clássicos de Busca em Espaço de Estados para...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/20_IIA_1/";
+            },},{id: "projects_en-problema-do-caixeiro-viajante-uma-abordagem-de-otimização-baseada-em-simulated-annealing",
+          title: 'Problema do Caixeiro Viajante: Uma abordagem de otimização baseada em Simulated Annealing',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/21_IFEC_1/";
+            },},{id: "projects_en-implementação-do-algoritmo-adaboost-e-avaliação-de-desempenho-de-diferentes-configurações-na-previsão-do-jogo-da-velha",
+          title: 'Implementação do algoritmo AdaBoost e avaliação de desempenho de diferentes configurações na previsão...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/22_ML_2/";
+            },},{id: "projects_en-implementação-dos-algoritmos-k-nearest-neighbors-e-k-means-avaliação-de-sua-aplicação-ao-dataset-iris",
+          title: 'Implementação dos algoritmos k-Nearest-Neighbors e k-Means Avaliação de sua aplicação ao dataset Iris...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/24_IIA_2/";
+            },},{id: "projects_en-quot-accept-all-cookies-quot-dilemas-éticos-no-desenvolvimento-de-interfaces-de-usuário",
+          title: '&amp;quot;Accept All Cookies&amp;quot;: Dilemas éticos no desenvolvimento de interfaces de usuário',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/25_EC_1/";
+            },},{id: "projects_en-quot-imagem-feita-por-ia-é-arte-quot-dilemas-sociais-do-uso-de-tecnologias-de-ponta-no-contexto-artístico",
+          title: '&amp;quot;Imagem feita por IA é arte?&amp;quot;: Dilemas sociais do uso de tecnologias de...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/26_CS_1/";
+            },},{id: "projects_en-implementação-e-análise-comparativa-de-três-diferentes-algoritmos-e-heurísticas-para-o-problema-do-caixeiro-viajante-métrico",
+          title: 'Implementação e Análise Comparativa de Três Diferentes Algoritmos e Heurísticas para o Problema...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/27_AlgII_1/";
+            },},{id: "projects_en-tcc-2-quot-acsm-explanation-quot-uma-ténica-de-visualização-molecular-voltada-à-explicabilidade-de-classificadores-baseados-em-assinaturas-estruturais-acsm",
+          title: '[TCC 2] &amp;quot;aCSM-Explanation&amp;quot;: Uma ténica de visualização molecular voltada à explicabilidade de classificadores...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/2_POC_2/";
+            },},{id: "projects_en-revisão-da-literatura-levantamento-de-métodos-de-seleção-de-features-baseados-em-teoria-da-informação",
+          title: '[Revisão da Literatura] Levantamento de métodos de Seleção de Features baseados em Teoria...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/3_IT_1/";
+            },},{id: "projects_en-proposta-de-otimização-do-método-csm-de-extração-de-features-de-proteínas-via-três-métricas-de-distância",
+          title: 'Proposta de otimização do método CSM de Extração de Features de Proteínas via...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/4_Bio_1/";
+            },},{id: "projects_en-seminário-regressão-com-aplicação-de-engenharia-de-features-em-dados-heterogêneos-para-a-tarefa-de-previsão-de-tarifas-de-taxi",
+          title: '[Seminário] Regressão com aplicação de Engenharia de Features em dados heterogêneos para a...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/5_ML_3/";
+            },},{id: "projects_en-comparação-de-modelos-estado-da-arte-para-extração-de-melodia-de-músicas-em-midi",
+          title: 'Comparação de modelos estado da arte para extração de melodia de músicas em...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/6_RIM_1/";
+            },},{id: "projects_en-parts-of-speech-tagging-classificação-de-classes-gramaticais-em-sentenças-da-língua-portuguesa-utilizando-fine-tuning-do-bertimbau",
+          title: 'Parts-of-Speech Tagging: Classificação de classes gramaticais em sentenças da língua-portuguesa utilizando fine-tuning do...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/7_NLP_1/";
+            },},{id: "projects_en-detecção-de-cláusulas-potencialmente-injustas-em-contratos-de-termos-de-uso-utilizando-fine-tuning-no-legal-bert",
+          title: 'Detecção de cláusulas potencialmente injustas em contratos de Termos de Uso utilizando fine-tuning...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/8_NLP_2/";
+            },},{id: "projects_en-quot-deliforest-quot-um-detector-de-spams-via-aprendizado-supervisionado-que-supera-abordagens-precedentes",
+          title: '&amp;quot;DeLIForest&amp;quot;: Um detector de SPAMs via aprendizado supervisionado que supera abordagens precedentes',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/9_Cyber_1/";
+            },},{id: "projects_en-seminário-quot-beyond-individual-input-for-deep-anomaly-detection-on-tabular-data-quot-desvendando-o-atual-modelo-estado-da-arte-em-detecção-de-anomalias-em-dados-tabulares",
+          title: '[Seminário] &amp;quot;Beyond Individual Input for Deep Anomaly Detection on Tabular Data&amp;quot;: Desvendando o...',
+          description: "",
+          section: "Projects_en",handler: () => {
+              window.location.href = "/projects_en/9_Cyber_2/";
             },},{
         id: 'social-email',
         title: 'email',
