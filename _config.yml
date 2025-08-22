@@ -147,6 +147,9 @@ collections:
     output: true
   projects:
     output: true
+  
+  projects_en:
+    output: true
 
 # -----------------------------------------------------------------------------
 # Jekyll settings

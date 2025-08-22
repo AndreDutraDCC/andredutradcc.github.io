@@ -1,34 +1,25 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "André Luiz M. Dutra",
+    "label": "Cientista de Dados | Engenheiro de Software",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "andredutrasoftware@gmail.com",
+    "phone": "(31) 99466-3236",
+    "url": "https://andredutradcc.github.io/",
+    "summary": "Desenvolvedor Backend com experiência em IA e Ciência de Dados, especializado em soluções escaláveis que integram Machine Learning e engenharia de software. Formado em Ciência da Computação pela UFMG, desenvolvi habilidades que combinam profundidade teórica em aprendizado de máquina com aplicação prática em engenharia de software, criando soluções eficientes e criativas para problemas complexos. Busco oportunidades para aplicar meus conhecimentos em projetos inovadores, com minha expertise em modelagem de dados, APIs e arquitetura de sistemas inteligentes.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "city": "Belo Horizonte",
+      "countryCode": "BR",
+      "region": "Minas Gerais"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+    "profiles": []
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
+      "name": "Polis Investimentos e Participações",
+      "position": "Desenvolvedor de Software Backend Pleno",
+      "startDate": "2023",
+      "endDate": "2024",
       "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
       "highlights": ["Relativity"]
     }
@@ -41,8 +32,7 @@
       "url": "https://example.com",
       "startDate": "2014-04-01",
       "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history."
     }
   ],
   "education": [
@@ -151,13 +141,13 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "Português",
+      "fluency": "Nativo",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Inglês",
+      "fluency": "Fluente",
       "icon": ""
     }
   ],
@@ -175,18 +165,7 @@
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+
   "projects": [
     {
       "name": "Quantum Computing",
