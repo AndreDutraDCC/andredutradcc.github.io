@@ -1,21 +1,19 @@
 ---
 layout: page
-title: Portfolio (en)
+title: Portfolio_en
 permalink: /projects_en/
-description: This portfolio features my main projects on Data Science and Machine Learning, sorted by subject.
-
-(**WIP - Thise page is currently under translation, since the original projects were made in brazilian portuguese. Translated projects will have English titles)
+description: This portfolio features my main projects on Data Science and Machine Learning, sorted by subject. (WIP - Thise page is currently under translation, since the original projects were made in brazilian portuguese. Translated projects will have English titles)
 nav: true
 nav_order: 1
 display_categories:
   [
-    "Explainable AI e Engenharia de Features",
-    "Transformer LLMs e Processamento de Linguagem Natural",
-    "Computação Visual e Processamento de Imagens",
-    "Descriptive Learning, Mineração e Análise de Dados",
-    "Heurísticas e Otimização em Espaço de Estados",
-    "Machine Learning Clássico",
-    "Ética na Computação e no Manejo de IAs",
+    "Explainable AI & Feature Engineering",
+    "Transformer LLMs & Natural Language Processing",
+    "Computer Vision & Image Processing",
+    "Descriptive Learning, Data Mining & Data Analysis",
+    "Heuristics & State-Space Optimization",
+    "Classic Machine Learning",
+    "Computer & AI Management Ethics",
   ]
 horizontal: false
 ---
