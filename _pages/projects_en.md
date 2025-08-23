@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Portfolio (english)
+title: Portfolio (English)
 permalink: /projects_en/
-description: This portfolio features my main projects on Data Science and Machine Learning, sorted by subject.
+description: "This portfolio features my main projects on Data Science and Machine Learning, sorted by subject.
 
-(**WIP - Thise page is currently under translation, since the original projects were made in brazilian portuguese. Translated projects will have English titles)
+(WIP - This page is currently under translation, since the original projects were made in brazilian portuguese. Translated projects will have English titles)"
 nav: true
 nav_order: 1
 display_categories:
