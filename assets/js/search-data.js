@@ -16,6 +16,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
+        },{id: "nav-portfolio-english",
+          title: "Portfolio (English)",
+          description: "This portfolio features my main projects on Data Science and Machine Learning, sorted by subject.(WIP - This page is currently under translation, since the original projects were made in brazilian portuguese. Translated projects will have English titles)",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/projects_en/";
+          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
