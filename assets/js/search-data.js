@@ -9,19 +9,12 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-portfólio-português",
-          title: "Portfólio (Português)",
+  },{id: "nav-portfólio",
+          title: "Portfólio",
           description: "Este portófilo contém os meus principais projetos voltados à área de Ciência de Dados e Aprendizado de Máquina, categorizados por área de estudo.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
-          },
-        },{id: "nav-portfolio-english",
-          title: "Portfolio (English)",
-          description: "This portfolio features my main projects on Data Science and Machine Learning, sorted by subject.(WIP - This page is currently under translation, since the original projects were made in brazilian portuguese. Translated projects will have English titles)",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/projects_en/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
