@@ -4,8 +4,8 @@ title: Portfolio (English)
 permalink: /projects_en/
 description: "This portfolio features my main projects on Data Science and Machine Learning, sorted by subject.
 
-(WIP - This page is currently under translation, since the original projects were made in brazilian portuguese. Translated projects will have English titles)"
-nav: true
+(WIP - This page is currently under translation, since the original projects were made in Brazilian Portuguese. Translated projects will have English titles)"
+nav: false
 nav_order: 1
 display_categories:
   [

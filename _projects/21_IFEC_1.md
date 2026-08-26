@@ -2,7 +2,7 @@
 layout: page
 title: "Problema do Caixeiro Viajante: Uma abordagem de otimização baseada em Simulated Annealing"
 description:
-img: assets/img/IFEC_1.png
+#img: assets/img/IFEC_1.png
 importance: 6
 category: "Heurísticas e Otimização em Espaço de Estados"
 redirect: https://andredutradcc.github.io/assets/project_files/IFEC_1.pdf
