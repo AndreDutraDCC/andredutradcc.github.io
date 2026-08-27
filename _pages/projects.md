@@ -9,6 +9,7 @@ display_categories:
   [
     "Explainable AI e Engenharia de Features",
     "Transformer LLMs e Processamento de Linguagem Natural",
+    "Governança e Planejamento em IA e Ciência de Dados",
     "Computação Visual e Processamento de Imagens",
     "Descriptive Learning, Mineração e Análise de Dados",
     "Heurísticas e Otimização em Espaço de Estados",
