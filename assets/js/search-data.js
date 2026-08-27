@@ -122,6 +122,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/27_AlgII_1/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/28_Gov_1/";
             },},{id: "projects-tcc-2-quot-acsm-explanation-quot-uma-ténica-de-visualização-molecular-voltada-à-explicabilidade-de-classificadores-baseados-em-assinaturas-estruturais-acsm",
           title: '[TCC 2] &amp;quot;aCSM-Explanation&amp;quot;: Uma ténica de visualização molecular voltada à explicabilidade de classificadores...',
           description: "",
@@ -142,6 +147,11 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_ML_3/";
+            },},{id: "projects-implementação-e-análise-comparativa-de-três-diferentes-algoritmos-e-heurísticas-para-o-problema-do-caixeiro-viajante-métrico",
+          title: 'Implementação e Análise Comparativa de Três Diferentes Algoritmos e Heurísticas para o Problema...',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/6_Mest/";
             },},{id: "projects-comparação-de-modelos-estado-da-arte-para-extração-de-melodia-de-músicas-em-midi",
           title: 'Comparação de modelos estado da arte para extração de melodia de músicas em...',
           description: "",
