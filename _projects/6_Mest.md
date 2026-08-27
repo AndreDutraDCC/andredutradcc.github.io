@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Implementação e Análise Comparativa de Três Diferentes Algoritmos e Heurísticas para o Problema do Caixeiro Viajante Métrico
+title: "[Pré-projeto de Mestrado] Proposta de tradução automatizada de Libras via Fine-tuning de LLMs para o aprimoramento da ferramenta VLibras"
 description:
 #img: assets/img/AlgII_1.png
 importance: 1
