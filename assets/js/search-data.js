@@ -122,8 +122,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/27_AlgII_1/";
-            },},{id: "projects-",
-          title: '',
+            },},{id: "projects-governança-em-ia-um-plano-de-ação-para-manutenção-preditiva-via-prognóstico-de-falhas-em-máquinas-via-séries-temporais-multi-sensor",
+          title: 'Governança em IA: Um Plano de Ação para Manutenção Preditiva via Prognóstico de...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/28_Gov_1/";
@@ -147,8 +147,8 @@ ninja.data = [{
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_ML_3/";
-            },},{id: "projects-implementação-e-análise-comparativa-de-três-diferentes-algoritmos-e-heurísticas-para-o-problema-do-caixeiro-viajante-métrico",
-          title: 'Implementação e Análise Comparativa de Três Diferentes Algoritmos e Heurísticas para o Problema...',
+            },},{id: "projects-pré-projeto-de-mestrado-proposta-de-tradução-automatizada-de-libras-via-fine-tuning-de-llms-para-o-aprimoramento-da-ferramenta-vlibras",
+          title: '[Pré-projeto de Mestrado] Proposta de tradução automatizada de Libras via Fine-tuning de LLMs...',
           description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_Mest/";
